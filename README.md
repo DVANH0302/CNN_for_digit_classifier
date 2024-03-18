@@ -1,6 +1,6 @@
 # CNN Digit Classifier
 
-Congratulations on creating your CNN Digit Classifier! This project demonstrates your expertise in machine learning and computer vision, achieving a remarkable ranking within the top 20%. Below is a README file to help users understand your project and how to utilize it effectively.
+This project demonstrates my expertise in machine learning and computer vision, achieving a remarkable ranking within the top 20%. Below is a README file to help users understand the project and how to utilize it effectively.
 
 ---
 
@@ -10,7 +10,7 @@ This project implements a Convolutional Neural Network (CNN) to classify handwri
 
 ## Model Performance
 
-Your model has achieved an impressive ranking within the top 20% of similar digit classification projects. This indicates the effectiveness and efficiency of your implementation.
+The model has achieved an impressive ranking within the top 20% of similar digit classification projects. This indicates the effectiveness and efficiency of my implementation.
 
 ## Installation
 
