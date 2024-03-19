@@ -9,9 +9,7 @@ This project demonstrates my expertise in machine learning and computer vision, 
 This project implements a Convolutional Neural Network (CNN) to classify handwritten digits. The model is trained on the MNIST dataset, which contains grayscale images of handwritten digits ranging from 0 to 9.
 
 ## Model Performance
-
-The model has achieved an impressive ranking within the top 20% of similar digit classification projects. This indicates the effectiveness and efficiency of my implementation.
-
+The model achieve nearly 100% accuracy on training sest and ~99% on test set.
 ## Installation
 
 To run this digit classifier, ensure you have the following dependencies installed:
